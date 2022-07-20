@@ -38,7 +38,7 @@ We have constructed our models using various classifiers such as Decision Tree, 
 
 ![taula F1 score](https://user-images.githubusercontent.com/104349352/179922661-169c7ef4-51fc-4baf-92cb-991ee67866d1.PNG)
 
-I would choose the Logistic Regression model as the best one.
+I would choose the Support Vector Machine model as the best one.
 
 ## Requirements
 
